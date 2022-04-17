@@ -3,7 +3,7 @@
 ## Install
 
 ```
-git clone https://github.com/9sv/store-card-service/
+git clone https://github.com/drooling/store-card-service/
 cd store-card-service
 
 pip install git+https://github.com/Pycord-Development/pycord
